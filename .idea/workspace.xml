@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d11d6618-5e32-4ef2-a874-bce83506c728" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/patterns/SOLID/1. single_responsibility_principle.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/cracking_the_coding_interview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cracking_the_coding_interview.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_sum.rb" beforeDir="false" afterPath="$PROJECT_DIR$/two_sum.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaprogramming/methods/dynamic_definition.rb" beforeDir="false" afterPath="$PROJECT_DIR$/metaprogramming/methods/dynamic_definition.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/SOLID/single_responsibility_principle.rb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,9 +201,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1759135323426",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1773825727474",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ahmadhassan/projects/ahmad/coding_interview",
+    "last_opened_file_path": "/Users/ahmadhassan/projects/ahmad/coding_interview/metaprogramming/Method Lookup Path",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -213,13 +215,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/metaprogramming/Method Lookup Path" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/searching" />
       <recent name="$PROJECT_DIR$/sortings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/metaprogramming/Method Lookup Path" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -503,6 +507,7 @@
       <workItem from="1757323298183" duration="4219000" />
       <workItem from="1757330250281" duration="4652000" />
       <workItem from="1759135264557" duration="14730000" />
+      <workItem from="1773825668494" duration="11614000" />
     </task>
     <servers />
   </component>
